@@ -1,1 +1,1 @@
-“web: bin/simple_movie_api”
+“web: bin:simple_movie_api”
